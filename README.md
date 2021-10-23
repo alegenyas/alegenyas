@@ -1,7 +1,8 @@
 - 👋 Hi advanced monkeys, I’m @alegenyas
 - 👀 I’m interested in neuro quantum programming
 - 🌱 I’m currently learning but when I'm done, I intend to make a revolution in this area!
-- 💞️ You are incredibly lucky, living with me in the same era, you have a unique opportunity to cooperate with me.
+- 💞️ You are incredibly lucky, living with me in the same era, 
+-    you have a unique opportunity to cooperate with me.
 - 📫 How to get to me? I myself will find d you, I'll catch you ...
 
 <!---
